@@ -2,7 +2,6 @@
 <br>
 <br> 
 <br>
-<<<<<<< HEAD
 <h2> Este é o meu primeiro projeto </h2>
 =======
 <h2 align="center"> Este é o meu primeiro projeto </h2>
@@ -26,4 +25,4 @@
   
 Made with ♥ by Lucas Valdênio :wave: [Get in touch!](https://www.linkedin.com/in/lucasvald%C3%AAnio/)
 t
->>>>>>> 99f73963c63a82914b07e96d275d39a3c0e9cbba
+
