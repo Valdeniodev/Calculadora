@@ -2,8 +2,6 @@
 <br>
 <br> 
 <br>
-<h2> Este é o meu primeiro projeto </h2>
-=======
 <h2 align="center"> Este é o meu primeiro projeto </h2>
 
 <div align="center" width="500"><img src="https://github.com/Valdeniodev/Primeiro-Projeto-Calculadora-Digital/blob/main/assets/Natural_Mockup_Freebie_Lead_Magnet_Facebook_Post-removebg-preview.png?raw=true"><div/>
